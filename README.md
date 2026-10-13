@@ -4,41 +4,6 @@
 
 ---
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [How It Works](#how-it-works)
-  - [Analysis Pipeline](#analysis-pipeline)
-  - [Step 1 — SHA-256 Hashing](#step-1--sha-256-hashing)
-  - [Step 2 — Duplicate Detection](#step-2--duplicate-detection)
-  - [Step 3 — Magika Local Analysis](#step-3--magika-local-analysis)
-  - [Step 4 — VirusTotal Cloud Lookup](#step-4--virustotal-cloud-lookup)
-  - [Step 5 — Verdict Engine](#step-5--verdict-engine)
-- [Architecture](#architecture)
-- [Requirements](#requirements)
-- [Installation](#installation)
-  - [Option A — Install from DMG (Recommended)](#option-a--install-from-dmg-recommended)
-  - [Option B — Build from Source](#option-b--build-from-source)
-- [Setup & Configuration](#setup--configuration)
-  - [1. Install Magika](#1-install-magika)
-  - [2. Get a VirusTotal API Key](#2-get-a-virustotal-api-key)
-  - [3. Enter Settings in FileGuard](#3-enter-settings-in-fileguard)
-- [Usage Guide](#usage-guide)
-  - [Scanning a File](#scanning-a-file)
-  - [Reading the Results](#reading-the-results)
-  - [Scan History](#scan-history)
-  - [Uploading to VirusTotal](#uploading-to-virustotal)
-  - [Copying a Report](#copying-a-report)
-- [Verdict Logic](#verdict-logic)
-- [Data & Privacy](#data--privacy)
-- [File Size Limits](#file-size-limits)
-- [Supported File Types (Mismatch Detection)](#supported-file-types-mismatch-detection)
-- [Error Reference](#error-reference)
-- [Known Limitations](#known-limitations)
-- [License](#license)
-
----
 
 ## Overview
 
